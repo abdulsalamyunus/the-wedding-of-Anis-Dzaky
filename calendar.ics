@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Akad dan Walimah
+X-WR-TIMEZONE:Asia/Jakarta
+X-WR-CALDESC:Akad Nikah dan Walimatul 'Ursy\nAnis & Dzaky
+ 
+BEGIN:VEVENT
+DTSTART:20220702T010000Z
+DTEND:20220702T020000Z
+DTSTAMP:20220621T160340Z
+UID:2eh61h6hisfnfe4h9j0nsljnqe@google.com
+CLASS:PUBLIC
+CREATED:20220621T154910Z
+DESCRIPTION:<a href="https://abdulsalamyunus.github.io/the-wedding-of-Anis-
+ Dzaky/" id="ow616" __is_owner="true">https://abdulsalamyunus.github.io/the-
+ wedding-of-Anis-Dzaky/</a>
+LAST-MODIFIED:20220621T154910Z
+LOCATION:https://www.google.co.id/maps/place/RT.4%2FRW.1\,+Pd.+Ranggon\,+Ke
+ c.+Cipayung\,+Kota+Jakarta+Timur\,+Daerah+Khusus+Ibukota+Jakarta/@-6.341760
+ 5\,106.9154524\,18z/data=!4m9!1m2!2m1!1spondok+ranggon+rt4+rw+1+pondok+rang
+ gon+cipayung!3m5!1s0x2e69932b980deaf3:0xae13aeef88cde8af!8m2!3d-6.3417527!4
+ d106.9163087!15sCjBwb25kb2sgcmFuZ2dvbiBydCA0IHJ3IDEgcG9uZG9rIHJhbmdnb24gY2l
+ wYXl1bmeSARRhZG1pbmlzdHJhdGl2ZV9hcmVhNw
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Akad Pernikahan Dzaky dan Anis
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220702T020000Z
+DTEND:20220702T090000Z
+DTSTAMP:20220621T160340Z
+UID:7bo6jg7fpbmkb2qgp728n8nrmn@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/rue-cdmc-wwg
+CLASS:PUBLIC
+CREATED:20210726T015553Z
+DESCRIPTION:https://abdulsalamyunus.github.io/the-wedding-of-Anis-Dzaky/\n\
+ n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~::~:~::-\nDo not edit this section of the description.\n\nThis event h
+ as a video call.\nJoin: https://meet.google.com/rue-cdmc-wwg\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220621T155157Z
+LOCATION:https://www.google.co.id/maps/place/RT.4%2FRW.1\,+Pd.+Ranggon\,+Ke
+ c.+Cipayung\,+Kota+Jakarta+Timur\,+Daerah+Khusus+Ibukota+Jakarta/@-6.341760
+ 5\,106.9154524\,18z/data=!4m9!1m2!2m1!1spondok+ranggon+rt4+rw+1+pondok+rang
+ gon+cipayung!3m5!1s0x2e69932b980deaf3:0xae13aeef88cde8af!8m2!3d-6.3417527!4
+ d106.9163087!15sCjBwb25kb2sgcmFuZ2dvbiBydCA0IHJ3IDEgcG9uZG9rIHJhbmdnb24gY2l
+ wYXl1bmeSARRhZG1pbmlzdHJhdGl2ZV9hcmVhNw
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Walimatul Ursy Dzaky dan Anis
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
