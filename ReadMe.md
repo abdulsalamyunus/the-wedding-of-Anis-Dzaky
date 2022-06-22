@@ -18,7 +18,7 @@
   <p align="center">
     <strong>Anis & Dzaky</strong>
     <br />
-    <a href="https://abdulsalamyunus.github.io/the-wedding-of-anis-dzaky/">Explore the Invitation ! »</a>
+    <a href="https://abdulsalamyunus.github.io/the-wedding-of-Anis-Dzaky/">Explore the Invitation ! »</a>
     <br />
     <br />
     <a href="https://github.com/rayhanyulanda">Anisa Rahmawati</a>
